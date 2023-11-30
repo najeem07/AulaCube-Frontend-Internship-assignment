@@ -14,8 +14,8 @@ Employed for its powerful language constructs, aiding in frontend logic, event h
 
 LocalStorage for Persistence: 
 Leveraged to store task-related data in the browser, providing persistent data even after browser sessions.
-Challenges & Impact:
 
+Challenges & Impact:
 State Management Complexity:
 Orchestrating state across various components for task updates and synchronization posed a significant challenge, requiring an in-depth understanding of React's state management principles.
 

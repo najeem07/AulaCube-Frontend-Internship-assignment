@@ -1,5 +1,6 @@
 # AulaCube-Frontend-Internship-assignment
-in vs Code
+# I Used in vs Code for Coding Part
+
 Objective & Scope:
 The internship project aimed to revitalize an existing Task Management application by augmenting functionalities and refining the user experience. My responsibilities encompassed the implementation of new features—adding, editing, and deleting tasks—while ensuring seamless integration within the established system boundaries.
 
